@@ -1,9 +1,12 @@
 i=1
 while i <=5:
-    print("Telusuko ",end="")
+    print("Hello ",end="")
     j=1
     while j<=4:
-        print("Rocks ",end="")
+        print("Guys ",end="")
         j=j+1
     i=i+1
     print()
+
+print("Bye")
+
